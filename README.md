@@ -1,4 +1,4 @@
-# Github_Assignment
+## Github_Assignment
 
 Name: Fatima Reffai
 
@@ -13,3 +13,7 @@ Aspiring AI Engineer dedicated to developing intelligent systems that solve real
 - C++ Programming
 - Problem Solving
 - Basic Web Development (HTML/CSS)
+## Interests
+- Programming
+- Web Development
+- Artificial Intelligence
